@@ -1,6 +1,10 @@
 # python-codevault
 berisi kodingan kodingan python umum yang kubuat.<br>
-untuk memudahkan transisi dan menjadi refrensi tutorial.
+untuk memudahkan transisi dan menjadi refrensi tutorial.<br>
+daily challange for myself, 1-3 kode harian!
+
+`start: 11-12-2021` <br>
+`last update: lihat repo`
 
 ### konten BASIC coding tanpa database tersedia
 * [filter teks](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/text_cleanup.py)
