@@ -14,6 +14,7 @@ perbedaan yang paling mendasar dan sering dilupakan
 | `(double)'000'`<br>converting only  | pakai `float(x)`  |
 | `in_something()/false`  | `not in`  |
 | `in_something()/true`  | `in`  |
+| `isset()`  | `is not None`  |
 | `something;`  | `something`  |
 | `{} code bracket`  | `{} dict object`  |
 | `[] array`<br>visible index  | `[] list`<br>invisible index  |
