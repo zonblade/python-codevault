@@ -3,8 +3,12 @@ berisi kodingan kodingan python umum yang kubuat.<br>
 untuk memudahkan transisi dan menjadi refrensi tutorial.
 
 ### konten BASIC coding tanpa database tersedia
-* pembersihan teks
-* input teks
+* [filter teks](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/text_cleanup.py)
+* [input teks](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/text_input.py)
+* [penggunaan case](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/case_basic.py)
+* [penggunaan while loop](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/loop_while.py)
+* [penggunaan for loop](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/loop_for_basic.py)
+* [kasus kasus print()](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/print_basic.py)
 
 ### konten BASIC dengan database tersedia
 * soon
