@@ -28,5 +28,13 @@ hasil = obj.apapun('value lain')
 
 # hasil
 print(hasil)
+# dari awal: hello, dari fungsi: value lain
 
+# lainnya
+# bisa juga begini tapi tidak disarankan
+# kecuali memang dibutuhkan
+hasil2 = nama('hello').apapun('value lain')
+
+# hasil
+print(hasil2)
 # dari awal: hello, dari fungsi: value lain
