@@ -1,5 +1,5 @@
 
-perbedaan yang paling mendasar dan sering dilupakan
+## perbedaan yang paling mendasar dan sering dilupakan
 
 | php  | python |
 | ------------- | ------------- |
@@ -24,7 +24,7 @@ perbedaan yang paling mendasar dan sering dilupakan
 | `function name()`  | `def name()`  |
 
 <br><br>
-perbedaan pembuatan class
+## perbedaan pembuatan class
 ```php
 /* PHP */
 class name(){
@@ -56,3 +56,25 @@ class name:
 obj = name('var')
 obj.anything()
 ```
+
+
+<br><br>
+## perbedaan pembuatan function
+```php
+/* PHP */
+function name($var=''){
+  return $var;
+}
+
+/* penggunaan */
+name('something');
+```
+```python
+# python
+def name(var=''):
+  return var
+  
+# penggunaan
+name('someting')
+```
+
