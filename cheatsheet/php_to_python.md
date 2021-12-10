@@ -1,3 +1,5 @@
+jika dilihat lihat, sebenarnya banyak kesamaan dari berbagai bahasa program
+
 ## daftar isi
 * [perbedaan dasar](#perbedaan-yang-paling-mendasar-dan-sering-dilupakan)
 * [perbedaan class](#perbedaan-pembuatan-class)
