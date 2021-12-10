@@ -5,6 +5,7 @@ untuk memudahkan transisi dan menjadi refrensi tutorial.
 ### konten BASIC coding tanpa database tersedia
 * [filter teks](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/text_cleanup.py)
 * [input teks](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/text_input.py)
+* [membuat class basic](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/class_basic.py)
 * [penggunaan case](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/case_basic.py)
 * [penggunaan while loop](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/loop_while.py)
 * [penggunaan for loop](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/loop_for_basic.py)
