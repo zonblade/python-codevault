@@ -1,3 +1,7 @@
+## daftar isi
+* [perbedaan dasar](#perbedaan-yang-paling-mendasar-dan-sering-dilupakan)
+* [perbedaan class](#perbedaan-pembuatan-class)
+* [perbedaan function](#perbedaan-pembuatan-function)
 
 ## perbedaan yang paling mendasar dan sering dilupakan
 
