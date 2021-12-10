@@ -22,3 +22,37 @@ perbedaan yang paling mendasar dan sering dilupakan
 | `array[] = 'val'/['val'=>'val']`  | `list += ['list']`  |
 | `$object = (object)['object'=>'val']`<br>membuat object  | `object = {'object':'val'}`<br>membuat object  |
 | `function name()`  | `def name()`  |
+
+<br><br>
+perbedaan pembuatan class
+```php
+/* PHP */
+class name(){
+  private $var;
+  
+  function __construct($var){
+    $this->var = $var;
+  }
+  
+  function anything(){
+    return $this->var;
+  }
+}
+
+/* penggunaanya */
+$obj = new name('var');
+$obj->anything()
+```
+```python
+# python
+class name:
+  def __init__(self,var):
+    self.val = var
+    
+  def anything(self):
+    return self.var
+    
+# penggunaanya
+obj = name('var')
+obj.anything()
+```
