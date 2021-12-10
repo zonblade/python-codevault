@@ -16,6 +16,9 @@ perbedaan yang paling mendasar dan sering dilupakan
 | `in_something()/true`  | `in`  |
 | `isset()`  | `is not None`  |
 | `something;`  | `something`  |
+| `$syntax = 'any val';`  | `syntax = 'any val'`  |
 | `{} code bracket`  | `{} dict object`  |
 | `[] array`<br>visible index  | `[] list`<br>invisible index  |
+| `array[] = 'val'/['val'=>'val']`  | `list += ['list']`  |
+| `$object = (object)['object'=>'val']`<br>membuat object  | `object = {'object':'val'}`<br>membuat object  |
 | `function name()`  | `def name()`  |
