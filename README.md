@@ -3,7 +3,7 @@ berisi kodingan kodingan python umum yang kubuat.<br>
 untuk memudahkan transisi dan menjadi refrensi tutorial.<br>
 daily challange for myself, 1-3 kode harian!
 
-`start: 11-12-2021` <br>
+`start: 10-12-2021` <br>
 `last update: lihat repo`
 
 ### konten BASIC coding tanpa database tersedia
