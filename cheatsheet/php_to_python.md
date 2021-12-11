@@ -20,7 +20,7 @@ jika dilihat lihat, sebenarnya banyak kesamaan dari berbagai bahasa program
 | `(double)'000'`<br>converting only  | pakai `float(x)`  |
 | `in_something()/false`  | `not in`  |
 | `in_something()/true`  | `in`  |
-| `isset()`  | `is not None`  |
+| `isset()`  | `any()`  |
 | `something;`  | `something`  |
 | `$syntax = 'any val';`  | `syntax = 'any val'`  |
 | `{} code bracket`  | `{} dict object`  |
