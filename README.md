@@ -8,6 +8,7 @@ daily challange for myself, 1-3 kode harian!
 
 ### konten BASIC coding tanpa database tersedia
 * [filter teks](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/text_cleanup.py)
+* [mencari rata rata](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/average_rata-rata.py)
 * [input teks](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/text_input.py)
 * [membuat class basic](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/class_basic.py)
 * [penggunaan case](https://github.com/zonblade/python-codevault/blob/main/basic-nodb/case_basic.py)
