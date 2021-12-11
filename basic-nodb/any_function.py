@@ -13,10 +13,6 @@ if any(item < number for item in angka):
 else:
 	print(f'tidak ada angka kurang dari {number}')
 
-# berguna untuk mempersingkat kode.
-# any mencari ketemu pada pengkondisian
-# yang didefinisikan.
-
 
 # berlaku juga untuk teks
 # misal mau mengecek apakah ada int di daftar teks
